@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @sivavuit
-- 💞️ I’m looking to collaborate on web...
+ Hi 👋 I'm Sivaram....
 
 
 <!---
